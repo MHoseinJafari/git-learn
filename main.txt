@@ -1,4 +1,3 @@
-line 1 edited
-
+line 1 edited (D)
 li2 is important
-
+line 3
